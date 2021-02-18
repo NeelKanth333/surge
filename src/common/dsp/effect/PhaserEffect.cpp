@@ -297,3 +297,6 @@ int PhaserEffect::get_ringout_decay()
 
     return 1000;
 }
+
+// I have to edit this file
+// TODO add waveforms to phaser modulator.
